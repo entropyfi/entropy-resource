@@ -33,10 +33,6 @@
       - banner_1 `.png`
       - banner_2 `.png`
       - profile_image `.png`
-    - logo `.png`
-    - noText `transparent` `.png`
-    - old `transparent` `.png`
-    - transparent `transparent` `.png`
     - **Pinterest**
       - board_photo `.png`
       - profile_image `.png`
@@ -46,6 +42,10 @@
       - profile_image `.png`
     - **Youtube**
       - profile_image `.png`
+    - logo `.png`
+    - noText `transparent` `.png`
+    - old `transparent` `.png`
+    - transparent `transparent` `.png`
 - **SVG**
   - **LOGO**
     - blackText `transparent` `.svg`
