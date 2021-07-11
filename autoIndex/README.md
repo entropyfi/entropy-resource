@@ -1,22 +1,8 @@
-<a href="https://www.entropyfi.com/">
-    <img alt="entropyfi" src="./Entropyfi.png" width="120px" height=:"120px" align="left">
-</a>
+# Catalog index automatic completion
 
-<div align="left">
+Use the JavaScript script here and automatically executed by GitHub Action.
 
-# 「 Entropyfi - Static Design Resource 」
-
-**_<a href="https://www.entropyfi.com/">WWW.ENTROPYFI.COM</a>_** / 📦 entropyfi all design resource library.
-
-</div>
-
-# 快速开始
-
-## 目录 & 索引
-
-资源文件以 `文件类型`、`归属` 划分 `目录/文件夹`，文件名由 `{ 归属 }_{ 名称 }_{ 透明度 }_{ ?重复 }.{ 扩展名 }` 构成。
-
-<!-- JS!LOOKME! -->
+`_(:3」∠)_` well, Enjoy It.
 - **Illustrator**
   - **LOGO**
     - text `transparent` `.ai`
@@ -50,5 +36,4 @@
   - **LOGO**
     - blackText `transparent` `.svg`
     - noText `transparent` `.svg`
-    - whiteText `transparent` `.svg`
-<!-- JS!LOOKME! -->
+    - whiteText `transparent` `.svg`undefined
