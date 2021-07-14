@@ -47,6 +47,7 @@
 - **SVG**
   - **LOGO**
     - blackText `transparent` `.svg`
+    - dynamic_dynamic `.svg`
     - noText `transparent` `.svg`
     - whiteText `transparent` `.svg`
 <!-- JS!LOOKME! -->
