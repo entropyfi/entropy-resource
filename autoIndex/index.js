@@ -9,7 +9,8 @@ const ignores = [
 	'.github',
 	'autoIndex',
 	'README.md',
-	'Entropyfi.png'
+	'Entropyfi.png',
+	'Entropyfi.svg'
 ] //ignores
 const charSet = {
 	node: '- ', // 节点

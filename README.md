@@ -1,5 +1,5 @@
 <a href="https://www.entropyfi.com/">
-    <img alt="entropyfi" src="./Entropyfi.png" width="120px" height=:"120px" align="left">
+    <img alt="entropyfi" src="./Entropyfi.svg" width="120px" height=:"120px" align="left">
 </a>
 
 <div align="left">
@@ -15,6 +15,7 @@
 ## table of Contents & index
 
 <!-- JS!LOOKME! -->
+
 - **Illustrator**
   - **LOGO**
     - text `transparent` `.ai`
@@ -45,9 +46,5 @@
     - old `transparent` `.png`
     - transparent `transparent` `.png`
 - **SVG**
-  - **LOGO**
-    - blackText `transparent` `.svg`
-    - dynamic_dynamic `.svg`
-    - noText `transparent` `.svg`
-    - whiteText `transparent` `.svg`
-<!-- JS!LOOKME! -->
+  - **LOGO** - blackText `transparent` `.svg` - dynamic_dynamic `.svg` - noText `transparent` `.svg` - whiteText `transparent` `.svg`
+  <!-- JS!LOOKME! -->
