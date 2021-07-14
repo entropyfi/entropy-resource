@@ -1,4 +1,4 @@
-<svg width="120px" height="120px" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+<svg width="120px" height="120px" style="padding: 50px" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
     <style>
         @keyframes main {
             from {
@@ -25,12 +25,57 @@
                 transform: rotate(360deg);
             }
         }
+        @keyframes two1 {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity:0.51;
+                transform: rotate(360deg);
+            }
+        }
+        @keyframes two2 {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity:0.8200000000000001;
+                transform: rotate(360deg);
+            }
+        }
         @keyframes three {
             from {
                 opacity: 0;
             }
             to {
                 opacity: 1;
+                transform: rotate(0);
+            }
+        }
+        @keyframes three1 {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity:0.51;
+                transform: rotate(0);
+            }
+        }
+        @keyframes three2 {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity:0.8200000000000001;
+                transform: rotate(0);
+            }
+        }
+        @keyframes three3 {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity:0.96;
                 transform: rotate(0);
             }
         }
@@ -51,17 +96,17 @@
     </style>
     <g style="transform-origin: center;animation: four 0.25s 0.95s forwards ease-in-out;">
         <g style="opacity:0.509803921568627;isolation:isolate">
-            <g style="opacity:0.51;transform-origin: center;transform: rotate(42deg);opacity:0;animation: three 0.25s 0.70s forwards cubic-bezier(.22,.58,.12,.98);">
+            <g style="transform-origin: center;transform: rotate(42deg);opacity:0;animation: three1 0.25s 0.70s forwards cubic-bezier(.22,.58,.12,.98);">
                 <path d="M300,60V0C134.31,0,0,134.31,0,300S134.31,600,300,600V540C167.45,540,60,432.55,60,300S167.45,60,300,60Z" style="fill:#73f6dd"/>
             </g>
         </g>
         <g style="opacity:0.819607843137255;isolation:isolate">
-            <g style="opacity:0.8200000000000001;transform-origin: center;transform: rotate(-42deg);opacity:0;animation: three 0.55s 0.50s forwards cubic-bezier(.22,.58,.12,.98);">
+            <g style="transform-origin: center;transform: rotate(-42deg);opacity:0;animation: three2 0.55s 0.50s forwards cubic-bezier(.22,.58,.12,.98);">
                 <path d="M300,108V59C166.9,59,59,166.9,59,300S166.9,541,300,541V492c-106,0-192-86-192-192S194,108,300,108Z" style="fill:#73f6dd"/>
             </g>
         </g>
         <g style="opacity:0.96078431372549;isolation:isolate">
-            <g style="opacity:0.96;transform-origin: center;transform: rotate(22deg);opacity:0;animation: three 0.55s 0.45s forwards cubic-bezier(.22,.58,.12,.98);">
+            <g style="transform-origin: center;transform: rotate(22deg);opacity:0;animation: three3 0.55s 0.45s forwards cubic-bezier(.22,.58,.12,.98);">
                 <path d="M147,300A153,153,0,0,1,299.88,147V107c-106.66,0-193.12,86.46-193.12,193.12s86.46,193.12,193.12,193.12V453A153,153,0,0,1,147,300ZM299.88,147V453H300V147Z" style="fill:#73f6dd"/>
             </g>
         </g>
@@ -81,17 +126,17 @@
             </g>
         </g>
         <g style="opacity:0.509803921568627;isolation:isolate">
-            <g style="opacity:0.51;transform-origin: center;opacity:0;transform: rotate(138deg);animation: two 0.25s 0.70s forwards cubic-bezier(.22,.58,.12,.98)">
+            <g style="transform-origin: center;opacity:0;transform: rotate(138deg);animation: two1 0.25s 0.70s forwards cubic-bezier(.22,.58,.12,.98)">
                 <path d="M300,0V60c132.55,0,240,107.45,240,240S432.55,540,300,540v60c165.69,0,300-134.31,300-300S465.69,0,300,0Z" style="fill:#2cc3ca"/>
             </g>
         </g>
         <g style="opacity:0.819607843137255;isolation:isolate">
-            <g style="opacity:0.8200000000000001;opacity:0;transform-origin: center;transform: rotate(270deg);animation: two 0.25s 0.65s forwards cubic-bezier(.22,.58,.12,.98);">
+            <g style="opacity:0;transform-origin: center;transform: rotate(270deg);animation: two2 0.25s 0.65s forwards cubic-bezier(.22,.58,.12,.98);">
                 <path d="M300,59v49c106,0,192,86,192,192S406,492,300,492v49c133.1,0,241-107.9,241-241S433.1,59,300,59Z" style="fill:#2cc3ca"/>
             </g>
         </g>
         <g style="opacity:0.96078431372549;isolation:isolate">
-            <g style="opacity:0.96;transform-origin: center;transform: rotate(270deg);opacity:0;animation: three 0.55s 0.45s forwards cubic-bezier(.22,.58,.12,.98);">
+            <g style="transform-origin: center;transform: rotate(270deg);opacity:0;animation: three3 0.55s 0.45s forwards cubic-bezier(.22,.58,.12,.98);">
                 <path d="M299.88,107V493.24C406.54,493.24,493,406.78,493,300.12S406.54,107,299.88,107ZM300,453V147a153,153,0,0,1,0,306Z" style="fill:#2cc3ca"/>
             </g>
         </g>
