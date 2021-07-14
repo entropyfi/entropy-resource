@@ -10,11 +10,9 @@
 
 </div>
 
-# 快速开始
+# Quick Start
 
-## 目录 & 索引
-
-资源文件以 `文件类型`、`归属` 划分 `目录/文件夹`，文件名由 `{ 归属 }_{ 名称 }_{ 透明度 }_{ ?重复 }.{ 扩展名 }` 构成。
+## table of Contents & index
 
 <!-- JS!LOOKME! -->
 - **Illustrator**
