@@ -15,7 +15,6 @@
 ## table of Contents & index
 
 <!-- JS!LOOKME! -->
-
 - **Illustrator**
   - **LOGO**
     - text `transparent` `.ai`
@@ -46,5 +45,9 @@
     - old `transparent` `.png`
     - transparent `transparent` `.png`
 - **SVG**
-  - **LOGO** - blackText `transparent` `.svg` - dynamic_dynamic `.svg` - noText `transparent` `.svg` - whiteText `transparent` `.svg`
-  <!-- JS!LOOKME! -->
+  - **LOGO**
+    - blackText `transparent` `.svg`
+    - dynamic_dynamic `.svg`
+    - noText `transparent` `.svg`
+    - whiteText `transparent` `.svg`
+<!-- JS!LOOKME! -->
