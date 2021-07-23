@@ -44,6 +44,8 @@
     - noText `transparent` `.png`
     - old `transparent` `.png`
     - transparent `transparent` `.png`
+  - **Medium**
+    - transparent `transparent` `.png`
 - **SVG**
   - **LOGO**
     - blackText `transparent` `.svg`
