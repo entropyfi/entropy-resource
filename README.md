@@ -17,6 +17,8 @@
 <!-- JS!LOOKME! -->
 - **Illustrator**
   - **LOGO**
+    - Left `transparent` `.ai`
+    - Left `transparent` `.ai`
     - black `transparent` `.ai`
     - white `transparent` `.ai`
     - text `transparent` `.ai`
@@ -51,6 +53,8 @@
     - transparent `transparent` `.png`
 - **SVG**
   - **LOGO**
+    - Left `transparent` `.svg`
+    - Left `transparent` `.svg`
     - black `transparent` `.svg`
     - white `transparent` `.svg`
     - blackText `transparent` `.svg`
