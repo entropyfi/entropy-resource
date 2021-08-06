@@ -21,6 +21,8 @@
     - Left `transparent` `.ai`
     - black `transparent` `.ai`
     - white `transparent` `.ai`
+    - 2 `transparent` `.ai`
+    - devUse `transparent` `.ai`
     - text `transparent` `.ai`
     - text `transparent` `.ai`
     - transparent `transparent` `.ai`
