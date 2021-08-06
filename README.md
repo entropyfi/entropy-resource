@@ -51,6 +51,7 @@
       - profile_image `.png`
     - logo `.png`
     - noText `transparent` `.png`
+    - noText `transparent` `.png`
     - old `transparent` `.png`
     - transparent `transparent` `.png`
 - **SVG**
